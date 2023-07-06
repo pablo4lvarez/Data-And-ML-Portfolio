@@ -17,8 +17,9 @@ Tools used (at the moment):
 
 * ## Machine Learning
   
-  * [Avengers Face-recognition]:
-    Howework for IA course (IIC2613) in my university. I did different old-style models of face-recognition using some scikit-learn classification       algorithms, and i did a deep analysis of the results and the proccedures. Has a lot of python and pandas skilss and analysis.
+  * [Avengers Face-recognition](https://github.com/pablo4lvarez/Data-Portfolio/blob/main/Tarea_3_IA.ipynb):
+    Howework for IA course (IIC2613) in my university. I did different old-style models of face-recognition using some scikit-learn classification       algorithms, and i did a deep analysis of the results and the proccedures. Has a lot of python and pandas data manipulation skills and analysis.
+    PD: The file is too big to display it on github, but you can download it!
    
   
 * ## Others
