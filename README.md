@@ -3,7 +3,7 @@ Repository that contains personal or academic projects about Data Analysis, Scie
 
 Tools used (at the moment):
 
-* Python: Pandas, Numpy and Matplotlib, Scikitlearn.
+* Python: Pandas, Numpy, Matplotlib and Scikitlearn.
 
 ## Contents
 
