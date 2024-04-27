@@ -1,5 +1,5 @@
 # Data & Machine Learning Portfolio
-Repository that contains personal or academic projects about Data Analysis, Science and engineering. Everything is presented in the form of Jupyter Notebooks.
+Repository that contains personal or academic projects about Data Analysis, Data Science and Machine Learning. Everything is presented in the form of Jupyter Notebooks.
 
 Tools used (at the moment):
 
